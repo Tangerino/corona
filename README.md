@@ -39,4 +39,6 @@ The service will return a JSON payload like this
 }
 ```
 
+### If you like it, send me a note. Stay save
+
 ## Enjoy 
