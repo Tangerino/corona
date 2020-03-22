@@ -2,7 +2,7 @@
 ## COVID-19 Web Service
 
 A simple web service, written in Python.
-Basically it reads this web page (https://www.worldometers.info/coronavirus/) parse it and shasres the information as a web service.
+Basically it reads this web page (https://www.worldometers.info/coronavirus/) parse it and shares the information as a web service.
 
 This software is free, do whatever you want with it. I'm not responsable for anything :)
 
