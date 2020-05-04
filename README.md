@@ -1,6 +1,8 @@
 # corona
 ## COVID-19 Web Service
 
+### this service is down now
+
 A simple web service, written in Python.
 Basically it reads this web page (https://www.worldometers.info/coronavirus/) parse it and shares the information as a web service.
 
